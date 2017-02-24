@@ -1,0 +1,11 @@
+{
+	"title": "SchemaDataLeboncoin",
+	"type": "object",
+	"properties": {
+		"price":"integer",
+		"city": "String",
+		"departement":"integer",
+		"surface": "integer",
+		"type":"String"
+	}
+}
